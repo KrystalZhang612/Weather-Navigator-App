@@ -57,9 +57,8 @@ Change New Branch in Github account `branches` section into Default Branch. <br/
 # Build 
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/Weather-Navigator-App?tab=readme-ov-file#method-to-run--test-the-project-locally)<br/>
 [Prerequisites & Setups](https://github.com/KrystalZhang612/Weather-Navigator-App/tree/main#prerequisites--setups)<br/>
-[Debugging&Troubleshooting]()<br/> 
 [Synchronous Developing Notes](https://github.com/KrystalZhang612/Weather-Navigator-App/tree/main#synchronous-developing-notes)<br/>
-[Tags and Topics]()
+[Tags and Topics](https://github.com/KrystalZhang612/Weather-Navigator-App/tree/main#tags-and-topics)
 
 # Contribution
 [Author]()
