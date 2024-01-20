@@ -274,12 +274,12 @@ Add some more details of the weather temperature and “feels like” at bottom:
   <span className = “parameter-label”> Feels like</span>
    <span className = “parameter-value”> 22 celsius degree </span>
 ```
-[feels like details.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/feels%20like%20details.PNG)<br/>
+[feels like details.pic.jpg]()<br/>
 with some more details properties:
 ```JavaScript 
 wind...Humidity...Pressure...
 ```
-[more details.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/more%20details.PNG)<br/>
+[more details.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/feels%20like%20details.PNG)<br/>
 Now we just need to polish the alignment of each property detail in [current-weather.css](https://github.com/KrystalZhang612/WeatherNavigator-App/blob/newbranch/src/components/current-weather/current-weather.css):<br/>
 For temperature:
 ```css
