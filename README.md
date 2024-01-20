@@ -6,12 +6,12 @@ A weather application using OpenWeatherMap API and GeoDB API with places autocom
 
 
 ## WeatherNavigator App Overview:<br/>
-![Screenshot](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/nyc%20weather%20overview1.png)<br/> 
-![Screenshot](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/san%20jose%20weather%20overview2.png)<br/> 
-![Screenshot](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/los%20angeles%20weather%20overview3.png)<br/>
-![Screenshot](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/berlin%20weather%20overview4.png)<br/>
-![Screenshot](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/paris%20weather%20overview5.png)<br/>
-![Screenshot](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/weather%20navigation%20app%20overview.png)
+![Screenshot](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/nyc%20weather%20overview1.png)<br/> 
+![Screenshot](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/san%20jose%20weather%20overview2.png)<br/> 
+![Screenshot](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/los%20angeles%20weather%20overview3.png)<br/>
+![Screenshot](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/berlin%20weather%20overview4.png)<br/>
+![Screenshot](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/paris%20weather%20overview5.png)<br/>
+![Screenshot](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/weather%20navigation%20app%20overview.png)
 
 
 
