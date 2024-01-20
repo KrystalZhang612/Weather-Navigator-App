@@ -398,10 +398,10 @@ For bottom, pass data to temperature, details, feels like, wind speed, humidity 
 ...Pressure(data.main.pressure)hPa
 ```
 Now the completed real-time weather statuses are all finished fetching:<br/>
-[sydney real-time weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/sydney%20real-time%20weather.PNG)<br/>
-[dubai real-time weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/dubai%20real-time%20weather.PNG)<br/>
-[rome real-time weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/rome%20real-time%20weather.PNG)<br/>
-[mumbai real-time weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/mumbai%20real-time%20weather.PNG)<br/>
+[sydney real-time weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/sydney%20real-time%20weather.PNG)<br/>
+[dubai real-time weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/dubai%20real-time%20weather.PNG)<br/>
+[rome real-time weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/rome%20real-time%20weather.PNG)<br/>
+[mumbai real-time weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/mumbai%20real-time%20weather.PNG)<br/>
 ## ***Building weather forecast component:***
 Similar to current weather, start off by creating a new component folder named forecast, along with corresponding JS and CSS files [forecast.js](https://github.com/KrystalZhang612/WeatherNavigator-App/blob/newbranch/src/components/forecast/forecast.js), [forecast.css](https://github.com/KrystalZhang612/WeatherNavigator-App/blob/newbranch/src/components/forecast/forecast.css).<br/>
 Test if `Forecast` is successfully exported in [forecast.js](https://github.com/KrystalZhang612/WeatherNavigator-App/blob/newbranch/src/components/forecast/forecast.js):
