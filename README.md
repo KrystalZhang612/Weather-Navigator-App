@@ -59,7 +59,6 @@ Change New Branch in Github account `branches` section into Default Branch. <br/
 [Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#prerequisites--setups)<br/>
 [Debugging&Troubleshooting](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#debuggingtroubleshooting)<br/> 
 [Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#synchronous-developing-notes)<br/>
-[Testing Results](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#testing-results)<br/>
 [Tags and Topics](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/README.md#tags-and-topics)
 
 # Contribution
@@ -454,12 +453,12 @@ Now add the map index as the label under small-icon images:
 <label className =”day”>{forecastDays[idx]}</label>
 ```
 So, if we search a specific city, its future a week of forecasts display along with icons on side:<br/>
-[date and icons.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/dates%20and%20icons.PNG)<br/>
+[date and icons.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/dates%20and%20icons.PNG)<br/>
 Add forecasts descriptions:
 ```JavaScript 
 <label className =”descriptions”>{item.weather[0].description}</label>
 ```
-[forecast with description.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/forecast%20with%20description.PNG)<br/>
+[forecast with description.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/forecast%20with%20description.PNG)<br/>
 Add to display the minimum and the max temperatures across a day:
 ```JavaScript 
  <label className="min-max">
@@ -467,7 +466,7 @@ Add to display the minimum and the max temperatures across a day:
 {Math.round(item.main.temp_max)}°C
 </label>
 ```
-[forecast with min-max temperature.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/forecast%20with%20min-max%20temperature.PNG)<br/>
+[forecast with min-max temperature.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/forecast%20with%20min-max%20temperature.PNG)<br/>
 Now to make the forecasts properly aligned, first
 ```JavaScript 
 import ‘./forecast.css’;
@@ -490,9 +489,9 @@ In [forecast.css](https://github.com/KrystalZhang612/WeatherNavigator-App/blob/n
 .icon-small {
     width: 40px;}
 ```
-[better aligned forecast.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/better%20aligned%20forecast.PNG)<br/>
+[better aligned forecast.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/better%20aligned%20forecast.PNG)<br/>
 Also add `day, description, min-max`, all forecast properties properly aligned now:
-[all forecast properties properly aligned.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/all%20forecast%20properties%20properly.PNG)<br/>
+[all forecast properties properly aligned.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/all%20forecast%20properties%20properly.PNG)<br/>
 Add grids in `AccordionItemPanels`:
 ```JavaScript 
 <div className="daily-details-grid">
@@ -531,7 +530,7 @@ className="daily-details-grid-item">
                             </div>
                         </AccordionItemPanel>
 ```
-Click on any grid when can obtain all forecast information: [forecast grid all ino.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/forecast%20grid%20all%20info.PNG)<br/>
+Click on any grid when can obtain all forecast information: [forecast grid all ino.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/forecast%20grid%20all%20info.PNG)<br/>
 Now we need to adjust the styles of all this information.<br/>
 So in [forecast.css](https://github.com/KrystalZhang612/WeatherNavigator-App/blob/newbranch/src/components/forecast/forecast.css):
 ```css
@@ -576,31 +575,7 @@ DEBUGGING: install react-script globally instead: `npm install -g react-scripts`
 `ERROR`<br/>
 `[eslint] Plugin “react” was conflicted between “package.json >> eslint-react-app >> base.js directory...`<br/>
  DEBUGGING: Neglectful error. Ignore the error until it naturally disappears.<br/>
- 
- # Testing Results
-<p align = "center">
-     <img src =" https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/cities%20prefix%20data%20list%20fetched.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/case%20search%20tokyo.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/tokyo-sunny-test.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/30%20percentblack%20box.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/feels%20like%20details.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/more%20details.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/properly%20aligned%20current%20weather.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/los%20angeles%20real-time%20weather.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/berlin%20real-time%20weather.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/san%20diego%20real-time%20weather.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/tokyo%20real-time%20weather.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/dubai%20real-time%20weather.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/rome%20real-time%20weather.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/mumbai%20real-time%20weather.PNG">&nbsp;
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/7%20days%20daily%20forecast%20small%20icons.PNG">&nbsp;
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/dates%20and%20icons.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/forecast%20with%20description.PNG">&nbsp;
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/forecast%20with%20min-max%20temperature.PNG">&nbsp; 
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/better%20aligned%20forecast.PNG">&nbsp;
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/all%20forecast%20properties%20properly.PNG">&nbsp;
-     <img src = "https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/forecast%20grid%20all%20info.PNG">
-</p> 
+
  
  # Tags and Topics
  react, react-js, nodejs, javascript, css, html, json-api, openweathermap-api, npx-create-react-app, npm management. 
