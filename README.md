@@ -220,7 +220,7 @@ Import weather icons into public src:
 <img alt=”weather” className = “weather-icon” src = “icons/01d.png”/>
 ```
 Downloadable weather [icons](https://github.com/bobangajicsm/react-weather-app/blob/main/public/icons).<br/>
-[Tokyo-sunny-test.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/tokyo-sunny-test.PNG)<br/>
+[Tokyo-sunny-test.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/tokyo-sunny-test.PNG)<br/>
 Set up current weather box’s alignment in [current-weather.js](https://github.com/KrystalZhang612/WeatherNavigator-App/blob/newbranch/src/components/current-weather/current-weather.js):
 ```JavaScript 
 .weather{
