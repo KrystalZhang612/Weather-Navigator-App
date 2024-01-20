@@ -188,7 +188,7 @@ Import GEO_API_URL:
 import {GEO_API_URL, geoApiOptions} from “../../api”;
 ```
 Now format the document in Vscode and refresh the React App page:<br/>
-[cities prefix data list fetched.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/cities%20prefix%20data%20list%20fetched.PNG) <br/>
+[cities prefix data list fetched.pic.png](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/cities%20prefix%20data%20list%20fetched.PNG) <br/>
 [case search tokyo.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/case%20search%20tokyo.PNG) <br/>
 Now the initial prefix names of the global cities data successfully fetched and searchable.<br/>
 ## ***Building Current Weather Components:***
