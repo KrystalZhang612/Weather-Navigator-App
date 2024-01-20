@@ -381,10 +381,10 @@ For top, modify by passing the city, weather-description and icon data:
 <img alt=”weather” className=”weather-icon” src={`icons/${data.weather[0].icon}.png`}/>
 ```
 Now on localhost, search for different cities and their real-time weather status display correctly:<br/>
-[los angeles real-time weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/los%20angeles%20real-time%20weather.PNG)<br/>
-[berlin real-time weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/berlin%20real-time%20weather.PNG)<br/>
-[san diego real-time weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/san%20diego%20real-time%20weather.PNG)<br/>
-[tokyo real-time weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/tokyo%20real-time%20weather.PNG)<br/>
+[los angeles real-time weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/los%20angeles%20real-time%20weather.PNG)<br/>
+[berlin real-time weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/berlin%20real-time%20weather.PNG)<br/>
+[san diego real-time weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/san%20diego%20real-time%20weather.PNG)<br/>
+[tokyo real-time weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/tokyo%20real-time%20weather.PNG)<br/>
 To get the temperature displayed as Celsius degree, append to `WEATHER_API_KEY`:
 ```JavaScript 
 &units=metric
