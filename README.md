@@ -233,7 +233,7 @@ margin: 20px auto 0 auto;
 }
 ```
 Now we have the current weather black box located at the center of white background:<br/>
-[30% black box.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/30%20percentblack%20box.PNG)<br/>
+[30% black box.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/30%20percentblack%20box.PNG)<br/>
 Some more alignment settings in [current-weather.css](https://github.com/KrystalZhang612/WeatherNavigator-App/blob/newbranch/src/components/current-weather/current-weather.css):
 ```css
 .top{
