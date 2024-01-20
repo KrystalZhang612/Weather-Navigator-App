@@ -78,7 +78,7 @@ Change New Branch in Github account `branches` section into Default Branch. <br/
 # Method to Run & Test the Project Locally
 
 ### Download the project to local directory. 
-### Replace `YOUR OWN GEODB RAPID API` and `YOUR OWN OPENWEATHER API KEY` you obtained from RapidAPI and OpenWeather websites in [api.js](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/src/api.js). 
+### Replace `YOUR OWN GEODB RAPID API` and `YOUR OWN OPENWEATHER API KEY` you obtained from RapidAPI and OpenWeather websites in [api.js](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/src/api.js). 
 ### In local console, locate to the project direcctory.
 ### Run `npm install`
 ### Run `npm i react-select`
