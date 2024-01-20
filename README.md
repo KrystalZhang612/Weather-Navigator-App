@@ -436,7 +436,7 @@ className="icon-small" src={`icons/${item.weather[0].icon}.png`} />
                 ))}</Accordion>
 ```
 Future 7 days of forecasts of weather small-icons displays:<br/>
-[7 days daily forecast small icons.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/7%20days%20daily%20forecast%20small%20icons.PNG)<br/>
+[7 days daily forecast small icons.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/7%20days%20daily%20forecast%20small%20icons.PNG)<br/>
 Now start an array to map each date in a week to its corresponding weather that date:
 ```JavaScript 
 const WEEK_DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday',
