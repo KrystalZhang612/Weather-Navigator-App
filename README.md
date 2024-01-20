@@ -55,11 +55,11 @@ In Vscode Terminal: <br/>
 Change New Branch in Github account `branches` section into Default Branch. <br/>
 
 # Build 
-[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#method-to-run--test-the-project-locally)<br/>
-[Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#prerequisites--setups)<br/>
-[Debugging&Troubleshooting](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#debuggingtroubleshooting)<br/> 
-[Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#synchronous-developing-notes)<br/>
-[Tags and Topics](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/README.md#tags-and-topics)
+[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/Weather-Navigator-App?tab=readme-ov-file#method-to-run--test-the-project-locally)<br/>
+[Prerequisites & Setups]()<br/>
+[Debugging&Troubleshooting]()<br/> 
+[Synchronous Developing Notes]()<br/>
+[Tags and Topics]()
 
 # Contribution
 [Author](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App#author)
