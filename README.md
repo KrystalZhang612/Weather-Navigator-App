@@ -321,7 +321,7 @@ For parameter value:
   font-size: 12px;
 }
 ```
-[properly aligned current weather.pic.jpg](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/testing-result-WeatherNavigation-App/properly%20aligned%20current%20weather.PNG)<br/>
+[properly aligned current weather.pic.jpg](https://github.com/KrystalZhang612/Weather-Navigator-App/blob/main/testing-result-WeatherNavigation-App/properly%20aligned%20current%20weather.PNG)<br/>
 ## ***Fetching and mapping data from weather API:***
 In open weather website, obtain the API keys for both current weather and forecast weather’s latitude and longitude data, store them into split value:
 ```JavaScript 
